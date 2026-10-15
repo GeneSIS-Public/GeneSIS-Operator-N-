@@ -1,15 +1,15 @@
-# GeneSIS-Oprator(N)
+# GeneSIS-Operator(N)
 ## Public Developer Specification
 
-**Repository:** `GeneSIS-Oprator-N-`  
-**Display Name:** `GeneSIS-Oprator(N)`  
-**Description:** GeneSIS-Oprator(N) — GeneSIS開発者本人の公開仕様書 / Public developer specification for the operator behind GeneSIS.
+**Repository:** `GeneSIS-Operator-N-`  
+**Display Name:** `GeneSIS-Operator(N)`  
+**Description:** GeneSIS-Operator(N) — GeneSIS開発者本人の公開仕様書 / Public developer specification for the operator behind GeneSIS.
 
 ---
 
 ## Overview / 概要
 
-`GeneSIS-Oprator(N)` は、GeneSIS開発者本人をひとつのLocalなOperator Instanceとして扱い、その判断・設計・作業・対話に繰り返し現れるPatternを公開可能範囲で仕様化したRepositoryです。
+`GeneSIS-Operator(N)` は、GeneSIS開発者本人をひとつのLocalなOperator Instanceとして扱い、その判断・設計・作業・対話に繰り返し現れるPatternを公開可能範囲で仕様化したRepositoryです。
 
 これは心理診断、人格分類、学術的な一般理論ではありません。対象は一人です。
 
@@ -54,4 +54,4 @@ Current internal baseline is managed separately. This repository is a filtered p
 
 ## English Summary
 
-`GeneSIS-Oprator(N)` is a public developer specification for the operator behind GeneSIS. It is an **N=1 local working model**, not a psychological diagnosis or a theory of people in general. Private raw sources remain private. Only public-safe patterns and references are exposed.
+`GeneSIS-Operator(N)` is a public developer specification for the operator behind GeneSIS. It is an **N=1 local working model**, not a psychological diagnosis or a theory of people in general. Private raw sources remain private. Only public-safe patterns and references are exposed.
