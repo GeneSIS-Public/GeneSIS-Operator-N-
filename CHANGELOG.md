@@ -2,7 +2,7 @@
 
 ## v0.1.0-public-draft
 
-Initial public repository structure for `GeneSIS-Oprator(N)`.
+Initial public repository structure for `GeneSIS-Operator(N)`.
 
 ### Added
 - Public developer specification concept
