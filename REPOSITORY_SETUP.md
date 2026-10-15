@@ -1,13 +1,13 @@
 # Repository Setup
 
 ## Repository Name
-`GeneSIS-Oprator-N-`
+`GeneSIS-Operator-N-`
 
 ## Display Name
-`GeneSIS-Oprator(N)`
+`GeneSIS-Operator(N)`
 
 ## Description
-`GeneSIS-Oprator(N) — GeneSIS開発者本人の公開仕様書 / Public developer specification for the operator behind GeneSIS.`
+`GeneSIS-Operator(N) — GeneSIS開発者本人の公開仕様書 / Public developer specification for the operator behind GeneSIS.`
 
 ## Visibility
 Public
@@ -27,4 +27,4 @@ Public
 - views/WORKING_WITH_ME.md
 
 ## Suggested first commit
-`docs: initialize GeneSIS-Oprator(N) public specification`
+`docs: initialize GeneSIS-Operator(N) public specification`
