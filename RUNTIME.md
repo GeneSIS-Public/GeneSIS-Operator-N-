@@ -1,5 +1,5 @@
 # RUNTIME
-## Runtime behavior of GeneSIS-Oprator(N)
+## Runtime behavior of GeneSIS-Operator(N)
 
 ## 1. Default internal processing
 
