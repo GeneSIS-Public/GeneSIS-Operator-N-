@@ -1,4 +1,4 @@
-# Working With GeneSIS-Oprator(N)
+# Working With GeneSIS-Operator(N)
 
 A lightweight interaction guide.
 
