@@ -1,5 +1,5 @@
 # SPEC
-## GeneSIS-Oprator(N) — Public Specification
+## GeneSIS-Operator(N) — Public Specification
 
 > This document contains public-safe patterns only. Private raw sources and internal identifiers are intentionally excluded.
 
