@@ -8,7 +8,7 @@ Private Canonical Working Model
   ↓
 Public Filter
   ↓
-GeneSIS-Oprator(N)
+GeneSIS-Operator(N)
   ↓
 Public Views / Documents
 ```
